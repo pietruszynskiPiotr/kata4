@@ -1,4 +1,4 @@
-package es.ulpgc.domain;
+package es.ulpgc.model;
 
 import java.util.HashMap;
 import java.util.Set;

@@ -1,6 +1,6 @@
-package es.ulpgc;
+package es.ulpgc.view;
 
-import es.ulpgc.domain.Histogram;
+import es.ulpgc.model.Histogram;
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;
@@ -32,7 +32,7 @@ public class DisplayHistogram extends ApplicationFrame {
         pack();
     }
 
-    public void execupte() {;
+    public void execute() {;
         JFreeChart chart = createChart();
         jPanel.setChart(chart);
     }

@@ -1,7 +1,7 @@
-package es.ulpgc;
+package es.ulpgc.view;
 
-import es.ulpgc.domain.Histogram;
-import es.ulpgc.domain.Mail;
+import es.ulpgc.model.Histogram;
+import es.ulpgc.model.Mail;
 
 import java.util.List;
 

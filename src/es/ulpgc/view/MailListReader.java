@@ -1,6 +1,6 @@
-package es.ulpgc;
+package es.ulpgc.view;
 
-import es.ulpgc.domain.Mail;
+import es.ulpgc.model.Mail;
 
 import java.io.IOException;
 import java.nio.file.Files;
